@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 s.name         = 'ScreenAdapter'
 
 #版本号
-s.version      = '0.0.1'
+s.version      = '0.0.2'
 
 #许可证
 s.license      = { :type => 'MIT' } 
